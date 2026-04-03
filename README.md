@@ -3,6 +3,14 @@
 > **AI-powered email spam detection web app built with Streamlit & Scikit-learn**
 ---
 
+## 🚀 Live Demo
+
+🌐 **[https://spamemaildetectionsystem-5ekcfznfrlba3yf3mcfcsf.streamlit.app/](https://spamemaildetectionsystem-5ekcfznfrlba3yf3mcfcsf.streamlit.app/)**
+
+> No installation needed — try it directly in your browser!
+
+---
+
 ## 📌 Overview
 
 **SpamShield** is a machine learning web application that detects whether an email is **spam or legitimate (ham)** in real time. It uses a trained **Multinomial Naive Bayes** classifier with **TF-IDF vectorization** and presents results through a sleek Deep Space–themed Streamlit UI.
@@ -129,7 +137,7 @@ Prediction → SPAM (1) or HAM (0)  +  Confidence %
 **Aayush Sharma**
 - 🎓 B.Tech Information Technology — Chandigarh Engineering College, Landran (2026)
 - 💼 Aspiring Data Analyst & ML Engineer
-- 🔗 [LinkedIn](www.linkedin.com/in/aayush-sharma-b108a93b0)
+- 🔗 [LinkedIn](www.linkedin.com/in/aayush-sharma-b108a93b0) 
 
 ---
 
